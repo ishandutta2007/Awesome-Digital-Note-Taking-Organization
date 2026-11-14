@@ -1,37 +1,49 @@
-# Awesome Digital Note-Taking & Knowledge Organization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated directory of the best **digital note-taking apps**, **personal knowledge management (PKM)** systems, **second brain frameworks**, and **local-first knowledge base** tools across commercial SaaS and open-source ecosystems.
-
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Note-Taking-Organization?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Note-Taking-Organization/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Local-First Notes, Bi-directional Linking, Knowledge Graphs, Markdown Editors & Data Sovereignty*  
-**Last updated: March 2026**
+<br/><br/>
+
+![Awesome Digital Note-Taking & Knowledge Organization Banner](./assets/banner.svg)
+
+</div>
+
+# 🧠 Awesome Digital Note-Taking & Knowledge Organization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> 🚀 A curated directory of the best **digital note-taking apps**, **personal knowledge management (PKM)** systems, **second brain frameworks**, and **local-first knowledge base** tools across commercial SaaS and open-source ecosystems.
+
+✨ **Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Local-First Notes 💾, Bi-directional Linking 🔗, Knowledge Graphs 🕸️, Markdown Editors 📝 & Data Sovereignty 🛡️*  
+📅 **Last updated: March 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source software** for **Digital Note-Taking, Second Brain, and Knowledge Organization**. Whether you need an outliner with bidirectional backlinks, an all-in-one Notion-style database workspace, an end-to-end encrypted Evernote alternative, or a self-hosted wiki for engineering teams, this guide compiles features, verified pricing tiers, free tier limits, company valuation scale, and GitHub star counts.
 
-### Key Highlights
-- **Local-First & Markdown-First PKM**: [Obsidian](https://obsidian.md/), [Logseq](https://github.com/logseq/logseq), [SiYuan](https://github.com/siyuan-note/siyuan), [SilverBullet](https://github.com/silverbulletmd/silverbullet), and [Foam](https://github.com/foambubble/foam).
-- **All-In-One Workspace & Block Databases**: [Notion](https://www.notion.so/), [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy), [AFFiNE](https://github.com/toeverything/AFFiNE), and [Anytype](https://github.com/anyproto/anytype-ts).
-- **Encrypted & Cloud-Synced Note Apps**: [Standard Notes](https://github.com/standardnotes/app), [Notesnook](https://github.com/streetwriters/notesnook), and [Joplin](https://github.com/laurent22/joplin).
-- **Ecosystem Standard Notes**: [Apple Notes](https://www.icloud.com/notes), [Microsoft OneNote](https://www.onenote.com/), and [Google Keep](https://keep.google.com/).
+### 🌟 Key Highlights
+- **💾 Local-First & Markdown-First PKM**: [Obsidian](https://obsidian.md/), [Logseq](https://github.com/logseq/logseq), [SiYuan](https://github.com/siyuan-note/siyuan), [SilverBullet](https://github.com/silverbulletmd/silverbullet), and [Foam](https://github.com/foambubble/foam).
+- **📊 All-In-One Workspace & Block Databases**: [Notion](https://www.notion.so/), [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy), [AFFiNE](https://github.com/toeverything/AFFiNE), and [Anytype](https://github.com/anyproto/anytype-ts).
+- **🔒 Encrypted & Cloud-Synced Note Apps**: [Standard Notes](https://github.com/standardnotes/app), [Notesnook](https://github.com/streetwriters/notesnook), and [Joplin](https://github.com/laurent22/joplin).
+- **🏢 Ecosystem Standard Notes**: [Apple Notes](https://www.icloud.com/notes), [Microsoft OneNote](https://www.onenote.com/), and [Google Keep](https://keep.google.com/).
 
 ---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-## Sector Overview & Market Dynamics
+## 📈 Sector Overview & Market Dynamics
 
 The global digital note-taking and collaborative document software market is estimated at **$1.2B to $15B+** (projected to reach upwards of **$40B+ by the mid-2030s** at an estimated 9%–22% CAGR driven by generative AI search/summarization and hybrid knowledge work). The industry operates as a **hybrid structure**: it is **highly concentrated at the general OS/enterprise suite layer** dominated by tech giants (Microsoft OneNote, Apple Notes, Google Keep bundled across billions of devices), yet **highly fragmented at the specialty, power-user, and local-first layer**, where hundreds of independent SaaS and open-source tools (Notion, Obsidian, Joplin, AFFiNE, Logseq) compete fiercely across bidirectional linking, canvas/whiteboards, and data sovereignty.
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Product | Description | Valuation / Scale | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|-------------|-------------------|-------------------|--------------------------|
@@ -44,7 +56,7 @@ The global digital note-taking and collaborative document software market is est
 | **[Craft](https://www.craft.do/)** | Native block-based document and notes workspace with visual styling, bidirectional linking, sub-pages, shareable web links, and native Apple/Windows performance. | **~$150 Million - $200 Million Est. Valuation** ($20.2M total VC funding through Series B) | Plus plan starts at **$8.00/month** billed annually ($96/year), or **$10.00/month** billed monthly | **Free forever**: Capped at **1,500 total content blocks**, **1 GB cloud storage**, **25 MB maximum file upload size**, **7-day version history**, and 15 monthly AI credits. |
 | **[Bear](https://bear.app/)** | Polished, distraction-free Markdown note-taking app crafted exclusively for macOS, iOS, iPadOS, and Apple Watch with nested tags and typography themes. | **Indie Bootstrapped** (~$350K - $1M+ ARR estimated; privately owned by Shiny Frog Ltd.) | Bear Pro starts at **$2.99/month** (legacy) or **$3.99/month** billed monthly, or **$39.99/year** billed annually | **Free forever**: Unlimited notes, nested tags, full Markdown editor, and basic text/MD export on a single device; no cross-device sync (iCloud sync, PDF/DOCX/HTML export, note encryption, and custom themes require Bear Pro, which has a **7-day free trial**). |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---------|------------|-------------|
@@ -64,24 +76,39 @@ The global digital note-taking and collaborative document software market is est
 | **[Standard Notes](https://github.com/standardnotes/app)** | [![Stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers) | **End-to-end encrypted safe space for personal notes and sensitive documents.** Multi-platform app focusing on data privacy, longevity, automated local/cloud backups, extensions, and open cryptographic standards (XChaCha20-Poly1305). |
 | **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** | [![Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers) | **Extensible, open-source personal knowledge management system with end-to-end Markdown focus.** Runs in the browser with an offline-capable PWA, live queries, embedded scripting, interactive templates, and server sync. |
 
-**Frameworks for building custom systems**: Choose **AppFlowy** or **AFFiNE** for modern Notion-like block and database workspaces, **Joplin** for rock-solid cross-platform notes with flexible cloud backends, **Logseq** or **Foam** for bidirectional outliners and graph-linked second brains, **Outline** for team-centric documentation, and **Standard Notes** or **Notesnook** for end-to-end encrypted private note storage.
+🛠️ **Frameworks for building custom systems**: Choose **AppFlowy** or **AFFiNE** for modern Notion-like block and database workspaces, **Joplin** for rock-solid cross-platform notes with flexible cloud backends, **Logseq** or **Foam** for bidirectional outliners and graph-linked second brains, **Outline** for team-centric documentation, and **Standard Notes** or **Notesnook** for end-to-end encrypted private note storage.
 
-## How to Contribute
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Digital-Note-Taking-Organization&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Digital-Note-Taking-Organization&type=date&legend=top-left)
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this collection! Maintaining and curating open-source and knowledge management ecosystems takes sustained dedication.
+
+If you find this repository valuable, please consider:
+- ⭐ **Starring** the repository to help others discover it.
+- 🍴 **Forking** and contributing new tools or updates.
+- 📢 **Sharing** with your network, team, or fellow note-takers.
+- ☕ **Sponsoring / Buying a coffee**: Support the author directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this guide fresh, accurate, and independent! 🙌
+
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
 4. Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+Star the repo if you find it useful! ⭐
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Note-taking apps store potentially sensitive personal and professional information; enforce device-level encryption, strong passwords, and careful sync configuration—especially for self-hosted setups exposed to the internet.
-- **Data format matters more than features for long-term ownership.** Joplin stores notes in SQLite (not plain files), so backups require app-level export—not just file copying [citation:1]. SiYuan and TriliumNext use proprietary workspace structures; validate export fidelity before migrating thousands of notes [citation:2][citation:13]. **AFFiNE's sync server is not fully open source**—the editor is MIT/AGPL, but the server component runs on a separate enterprise license [citation:1]. **Obsidian is free for personal use but requires a commercial license for work** [citation:2]. Always test import, export, and restore with your actual files before committing to any tool for critical knowledge management.
+- **Data format matters more than features for long-term ownership.** Joplin stores notes in SQLite (not plain files), so backups require app-level export—not just file copying. SiYuan and TriliumNext use proprietary workspace structures; validate export fidelity before migrating thousands of notes. **AFFiNE's sync server is not fully open source**—the editor is MIT/AGPL, but the server component runs on a separate enterprise license. **Obsidian is free for personal use but requires a commercial license for work**. Always test import, export, and restore with your actual files before committing to any tool for critical knowledge management.
 
 ---
 
-**Made for note-takers, researchers, writers, and organizations building personal knowledge infrastructure.**  
-Let's make digital note-taking and organization more open, local-first, and user-controlled.
+**Made with ❤️ for note-takers, researchers, writers, and organizations building personal knowledge infrastructure.**  
+Let's make digital note-taking and organization more open, local-first, and user-controlled. 🚀
