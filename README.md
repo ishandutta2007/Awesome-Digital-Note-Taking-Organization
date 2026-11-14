@@ -17,10 +17,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global digital note-taking and collaborative document software market is estimated at **$1.2B to $15B+** (projected to reach upwards of **$40B+ by the mid-2030s** at an estimated 9%–22% CAGR driven by generative AI search/summarization and hybrid knowledge work). The industry operates as a **hybrid structure**: it is **highly concentrated at the general OS/enterprise suite layer** dominated by tech giants (Microsoft OneNote, Apple Notes, Google Keep bundled across billions of devices), yet **highly fragmented at the specialty, power-user, and local-first layer**, where hundreds of independent SaaS and open-source tools (Notion, Obsidian, Joplin, AFFiNE, Logseq) compete fiercely across bidirectional linking, canvas/whiteboards, and data sovereignty.
 
 ## SaaS/Hosted Platforms
 
