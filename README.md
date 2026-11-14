@@ -2,7 +2,7 @@
 
 # Awesome-Digital-Note-Taking-Organization
 
-# Top Digital Note-Taking & Organization Ecosystem
+## Top Digital Note-Taking & Organization Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Local-First Notes, Knowledge Graphs & Cross-Platform Organization*  
