@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Note-Taking-Organization?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Note-Taking-Organization/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Note-Taking-Organization?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Note-Taking-Organization/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -20,7 +20,7 @@
 *Focused on Local-First Notes 💾, Bi-directional Linking 🔗, Knowledge Graphs 🕸️, Markdown Editors 📝 & Data Sovereignty 🛡️*  
 📅 **Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source software** for **Digital Note-Taking, Second Brain, and Knowledge Organization**. Whether you need an outliner with bidirectional backlinks, an all-in-one Notion-style database workspace, an end-to-end encrypted Evernote alternative, or a self-hosted wiki for engineering teams, this guide compiles features, verified pricing tiers, free tier limits, company valuation scale, and GitHub star counts.
+This repository tracks notable **SaaS platforms** and **open-source software** for **Digital Note-Taking, Second Brain, and Knowledge Organization**. Whether you need an outliner with bidirectional backlinks, an all-in-one Notion-style database workspace, an end-to-end encrypted Evernote alternative, or a self-hosted wiki for engineering teams, this guide compiles features, verified pricing tiers, free tier limits, company valuation scale, and GitHub Stars_Counts.
 
 ### 🌟 Key Highlights
 - **💾 Local-First & Markdown-First PKM**: [Obsidian](https://obsidian.md/), [Logseq](https://github.com/logseq/logseq), [SiYuan](https://github.com/siyuan-note/siyuan), [SilverBullet](https://github.com/silverbulletmd/silverbullet), and [Foam](https://github.com/foambubble/foam).
@@ -58,7 +58,7 @@ The global digital note-taking and collaborative document software market is est
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | **Open-source Flutter & Rust alternative to Notion.** High-performance local-first workspace featuring rich Markdown editing, relational databases, Kanban boards, calendar views, offline access, and customizable AI plugins. |
 | **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | **Next-gen visual workspace merging docs, whiteboards, and databases.** Integrates structured text documentation with an infinite edgeless canvas for mind mapping, diagrams, and brainstorms. Self-hostable via Docker Compose. *(Note: Sync server uses an enterprise license).* |
