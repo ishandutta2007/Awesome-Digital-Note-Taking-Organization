@@ -1,20 +1,24 @@
-# Awesome-Digital-Note-Taking-Organization
+# Awesome Digital Note-Taking & Knowledge Organization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome-Digital-Note-Taking-Organization
+> A curated directory of the best **digital note-taking apps**, **personal knowledge management (PKM)** systems, **second brain frameworks**, and **local-first knowledge base** tools across commercial SaaS and open-source ecosystems.
 
-## Top Digital Note-Taking & Organization Ecosystem
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Note-Taking-Organization?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Note-Taking-Organization/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Local-First Notes, Knowledge Graphs & Cross-Platform Organization*  
+*Focused on Local-First Notes, Bi-directional Linking, Knowledge Graphs, Markdown Editors & Data Sovereignty*  
 **Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Note-Taking & Organization**. These tools help individuals and teams capture ideas, organize research, and build personal knowledge bases—covering everything from simple Markdown editors to block-based workspaces with databases, whiteboards, and bidirectional linking.
+This repository tracks notable **SaaS platforms** and **open-source software** for **Digital Note-Taking, Second Brain, and Knowledge Organization**. Whether you need an outliner with bidirectional backlinks, an all-in-one Notion-style database workspace, an end-to-end encrypted Evernote alternative, or a self-hosted wiki for engineering teams, this guide compiles features, verified pricing tiers, free tier limits, company valuation scale, and GitHub star counts.
 
-**Examples** include Obsidian, Notion, Evernote, Microsoft OneNote, Joplin, Logseq, AFFiNE, AppFlowy, SiYuan, and TriliumNext (the category leaders).
+### Key Highlights
+- **Local-First & Markdown-First PKM**: [Obsidian](https://obsidian.md/), [Logseq](https://github.com/logseq/logseq), [SiYuan](https://github.com/siyuan-note/siyuan), [SilverBullet](https://github.com/silverbulletmd/silverbullet), and [Foam](https://github.com/foambubble/foam).
+- **All-In-One Workspace & Block Databases**: [Notion](https://www.notion.so/), [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy), [AFFiNE](https://github.com/toeverything/AFFiNE), and [Anytype](https://github.com/anyproto/anytype-ts).
+- **Encrypted & Cloud-Synced Note Apps**: [Standard Notes](https://github.com/standardnotes/app), [Notesnook](https://github.com/streetwriters/notesnook), and [Joplin](https://github.com/laurent22/joplin).
+- **Ecosystem Standard Notes**: [Apple Notes](https://www.icloud.com/notes), [Microsoft OneNote](https://www.onenote.com/), and [Google Keep](https://keep.google.com/).
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted note-taking, open-source knowledge bases, and community-driven organization tools—ideal for users seeking data sovereignty and local-first ownership over cloud subscriptions. The open-source landscape is genuinely mature: **Joplin** is PCMag's top open-source pick with Evernote importers , **AFFiNE** merges docs and whiteboards like Notion meets Miro [citation:1][citation:4], and **Logseq** provides block-based outlining with local Markdown storage [citation:2].
-
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
 ## Table of Contents
 - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
